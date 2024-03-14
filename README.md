@@ -1,4 +1,4 @@
-Text Mining Project Retake - Binary Classification Focus
+Text Mining Project Retake - Binary Classification
 Welcome to my repository for the retake of the text mining project. In this second iteration, I've taken a different approach by shifting the focus of my project. Previously, I found myself hitting a plateau with the labs and decided it was time for a change.
 
 I have redirected my efforts towards binary classification, with a particular emphasis on class balancing techniques such as oversampling and undersampling. I believe this change is judicious for several reasons. Firstly, it remains within the same sphere of text mining and natural language processing. Secondly, these techniques are highly relevant and applicable to my previous topic, providing a continuous thread between the two projects.
